@@ -6,6 +6,7 @@ The notebook here contains code snippets to synchronize the eye tracking, video 
 1. The raw exported file from Tobii Pro 2 glasses (livedata.json.gz)
 2. (Optional) processed ET file
 3. BrainVision EEG data files (.eeg, .vhdr and .vmrk)
+Note that the .eeg file is too large, and not included in the repo.
 
 **Dependencies:**
 
